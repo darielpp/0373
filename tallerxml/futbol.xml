@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Temporada>
+    <LaLiga jornada="1">
+        <partido>
+            <local>Real Sociedad</local>
+            <visitante>Getafe</visitante>
+            <resultado>2-0</resultado>
+        </partido>
+        <partido>
+            <local>Valencia</local>
+            <visitante>Malaga</visitante>
+            <resultado>1-0</resultado>
+        </partido>
+        <partido>
+            <local>Osasuna</local>
+            <visitante>Granada</visitante>
+            <resultado>1-2</resultado>
+        </partido>
+        <partido>
+            <local>Sevilla</local>
+            <visitante>Atlético</visitante>
+            <resultado>1-3</resultado>
+        </partido>
+        <partido>
+            <local>Celta</local>
+            <visitante>Espanyol</visitante>
+            <resultado>2-2</resultado>
+        </partido>
+        <partido>
+            <local>Valladolid</local>
+            <visitante>Athletic</visitante>
+            <resultado>1-2</resultado>
+        </partido>
+        <partido>
+            <local>FCBarcelona</local>
+            <visitante>Levante</visitante>
+            <resultado>7-0</resultado>
+        </partido>
+        <partido>
+            <local>Real Madrid</local>
+            <visitante>Betis</visitante>
+            <resultado>2-1</resultado>
+        </partido>
+        <partido>
+            <local>Rayo</local>
+            <visitante>Elche</visitante>
+            <resultado>3-0</resultado>
+        </partido>
+        <partido>
+            <local>Almeria</local>
+            <visitante>Villareal</visitante>
+            <resultado>2-3</resultado>
+        </partido>
+    </LaLiga>
+
+    <LaLiga jornada="2">
+        <partido>
+            <local>Getafe</local>
+            <visitante>Almeria</visitante>
+            <resultado>2-2</resultado>
+        </partido>
+        <partido>
+            <local>Elche</local>
+            <visitante>Real Sociedad</visitante>
+            <resultado>1-1</resultado>
+        </partido>
+        <partido>
+            <local>Villareal</local>
+            <visitante>Valladolid</visitante>
+            <resultado>2-1</resultado>
+        </partido>
+        <partido>
+            <local>Malaga</local>
+            <visitante>FCBarcelona</visitante>
+            <resultado>0-1</resultado>
+        </partido>
+        <partido>
+            <local>Betis</local>
+            <visitante>Celta</visitante>
+            <resultado>2-2</resultado>
+        </partido>
+        <partido>
+            <local>Athletic</local>
+            <visitante>Osasuna</visitante>
+            <resultado>2-0</resultado>
+        </partido>
+        <partido>
+            <local>Espanyol</local>
+            <visitante>Valencia</visitante>
+            <resultado>3-1</resultado>
+        </partido>
+        <partido>
+            <local>Atlético</local>
+            <visitante>Rayo</visitante>
+            <resultado>5-0</resultado>
+        </partido>
+        <partido>
+            <local>Levante</local>
+            <visitante>Sevilla</visitante>
+            <resultado>0-0</resultado>
+        </partido>
+        <partido>
+            <local>Granadal</local>
+            <visitante>Real Madrid</visitante>
+            <resultado>0-1</resultado>
+        </partido>
+    </LaLiga>
+
+    <LaLiga jornada="3">
+        <Partido>
+            <Local>Rayo</Local>
+            <Visitante>Levante</Visitante>
+            <Resultado>1 - 2</Resultado>
+        </Partido>
+        <Partido>
+            <Local>Celta</Local>
+            <Visitante>Granada</Visitante>
+            <Resultado>1 - 1</Resultado>
+        </Partido>
+        <Partido>
+            <Local>Osasuna</Local>
+            <Visitante>Villarreal</Visitante>
+            <Resultado>0 - 3</Resultado>
+        </Partido>
+        <Partido>
+            <Local>Espanyol</Local>
+            <Visitante>Betis</Visitante>
+            <Resultado>0 - 0</Resultado>
+        </Partido>
+        <Partido>
+            <Local>Valencia</Local>
+            <Visitante>FC Barcelona</Visitante>
+            <Resultado>2 - 3</Resultado>
+        </Partido>
+        <Partido>
+            <Local>Almería</Local>
+            <Visitante>Elche</Visitante>
+            <Resultado>2 - 2</Resultado>
+        </Partido>
+        <Partido>
+            <Local>Valladolid</Local>
+            <Visitante>Getafe</Visitante>
+            <Resultado>1 - 0</Resultado>
+        </Partido>
+        <Partido>
+            <Local>R. Madrid</Local>
+            <Visitante>Athletic</Visitante>
+            <Resultado>3 - 1</Resultado>
+        </Partido>
+        <Partido>
+            <Local>R. Sociedad</Local>
+            <Visitante>Atlético</Visitante>
+            <Resultado>1 - 2</Resultado>
+        </Partido>
+        <Partido>
+            <Local>Sevilla</Local>
+            <Visitante>Málaga</Visitante>
+            <Resultado>2 - 2</Resultado>
+        </Partido>
+    </LaLiga>
+
+    <LaLiga jornada="4">
+        <Partido>
+            <Local>Rayo</Local>
+            <Visitante>Levante</Visitante>
+            <Resultado>1 - 2</Resultado>
+        </Partido>
+        <Partido>
+            <Local>Celta</Local>
+            <Visitante>Granada</Visitante>
+            <Resultado>1 - 1</Resultado>
+        </Partido>
+        <Partido>
+            <Local>Osasuna</Local>
+            <Visitante>Villarreal</Visitante>
+            <Resultado>0 - 3</Resultado>
+        </Partido>
+        <Partido>
+            <Local>Espanyol</Local>
+            <Visitante>Betis</Visitante>
+            <Resultado>0 - 0</Resultado>
+        </Partido>
+        <Partido>
+            <Local>Valencia</Local>
+            <Visitante>FC Barcelona</Visitante>
+            <Resultado>2 - 3</Resultado>
+        </Partido>
+        <Partido>
+            <Local>Almería</Local>
+            <Visitante>Elche</Visitante>
+            <Resultado>2 - 2</Resultado>
+        </Partido>
+        <Partido>
+            <Local>Valladolid</Local>
+            <Visitante>Getafe</Visitante>
+            <Resultado>1 - 0</Resultado>
+        </Partido>
+        <Partido>
+            <Local>R. Madrid</Local>
+            <Visitante>Athletic</Visitante>
+            <Resultado>3 - 1</Resultado>
+        </Partido>
+        <Partido>
+            <Local>R. Sociedad</Local>
+            <Visitante>Atlético</Visitante>
+            <Resultado>1 - 2</Resultado>
+        </Partido>
+        <Partido>
+            <Local>Sevilla</Local>
+            <Visitante>Málaga</Visitante>
+            <Resultado>2 - 2</Resultado>
+        </Partido>
+    </LaLiga>
+</Temporada>

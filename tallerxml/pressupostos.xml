@@ -1,0 +1,68 @@
+<pressupostos>
+    <pressupost id="1">
+        <component tipus="placa_base">
+            <nom>ASUS ROG STRIX B550-F</nom>
+            <preu>180.00</preu>
+            <quantitat>1</quantitat>
+        </component>
+        <component tipus="processador">
+            <nom>AMD Ryzen 5 5600X</nom>
+            <preu>240.00</preu>
+            <quantitat>1</quantitat>
+        </component>
+        <component tipus="memoria_ram">
+            <nom>Corsair Vengeance LPX 16GB (2 x 8GB)</nom>
+            <preu>90.00</preu>
+            <quantitat>1</quantitat>
+        </component>
+        <component tipus="disc_dur">
+            <nom>Samsung 970 EVO Plus 1TB</nom>
+            <preu>120.00</preu>
+            <quantitat>1</quantitat>
+        </component>
+        <component tipus="targeta_grafica">
+            <nom>NVIDIA GeForce RTX 3060</nom>
+            <preu>400.00</preu>
+            <quantitat>1</quantitat>
+        </component>
+        <component tipus="targeta_so">
+            <nom>Creative Sound Blaster Z</nom>
+            <preu>100.00</preu>
+            <quantitat>1</quantitat>
+        </component>
+        <total>1130.00</total>
+    </pressupost>
+    <pressupost id="2">
+        <component tipus="placa_base">
+            <nom>MSI MPG B550 Gaming Plus</nom>
+            <preu>140.00</preu>
+            <quantitat>1</quantitat>
+        </component>
+        <component tipus="processador">
+            <nom>Intel Core i5-12600K</nom>
+            <preu>280.00</preu>
+            <quantitat>1</quantitat>
+        </component>
+        <component tipus="memoria_ram">
+            <nom>Kingston Fury Beast 16GB (2 x 8GB)</nom>
+            <preu>85.00</preu>
+            <quantitat>1</quantitat>
+        </component>
+        <component tipus="disc_dur">
+            <nom>Western Digital Black SN770 1TB</nom>
+            <preu>110.00</preu>
+            <quantitat>1</quantitat>
+        </component>
+        <component tipus="targeta_grafica">
+            <nom>NVIDIA GeForce GTX 1660 Super</nom>
+            <preu>300.00</preu>
+            <quantitat>1</quantitat>
+        </component>
+        <component tipus="targeta_so">
+            <nom>ASUS Xonar SE</nom>
+            <preu>60.00</preu>
+            <quantitat>1</quantitat>
+        </component>
+        <total>975.00</total>
+    </pressupost>
+</pressupostos>
