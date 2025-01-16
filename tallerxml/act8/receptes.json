@@ -1,0 +1,60 @@
+{
+    "Receptes": [
+        {
+            "nom": "Pastís de xocolata",
+            "ingredients": {
+                "ingredient": "cacau en pols"
+            },
+            "preparacio": {
+                "pas": "Deixeu-ho coure al forn a 180 graus durant 30 minuts. Després, deixeu refredar el pastís, desmotlleu-lo i emplatau-lo. Per acabar, decoreu-lo amb nata muntada i cacau en pols."
+            },
+            "notes_complementaries": {
+                "nota": "Recepta del programa de TV3 Cuines, del restaurant Les Petxines."
+            },
+            "autor": {
+                "nom": "Adrià Ruscalleda"
+            },
+            "categories": {
+                "categoria": "Aniversari"
+            }
+        },
+        {
+            "nom": "Volcà de xocolata",
+            "ingredients": {
+                "ingredient": "60 g de farina"
+            },
+            "preparacio": {
+                "pas": "6. Serviu calent, empolvorat de sucre llustre i acompanyat d'una salsa o de gelat."
+            },
+            "autor": {
+                "nom": "Anna"
+            },
+            "categories": {
+                "categoria": "Catalana"
+            },
+            "informacio_addicional": {
+                "preparacio": "30 minuts",
+                "cost": "15 €",
+                "calories": "220 calories"
+            }
+        },
+        {
+            "nom": "Pastís de formatge",
+            "ingredients": {
+                "ingredient": "Un parell de galetes Maria o Chiquilín"
+            },
+            "preparacio": {
+                "pas": "Ens el podem menjar sol o bé regir-lo amb una capa molt fina de melmelada de maduixa o grosella. Veureu quina delícia!!!"
+            },
+            "notes_complementaries": {
+                "nota": "Una delícia pels més formatgers!!!"
+            },
+            "autor": {
+                "nom": "Eulàlia"
+            },
+            "categories": {
+                "categoria": "Postre"
+            }
+        }
+    ]
+}

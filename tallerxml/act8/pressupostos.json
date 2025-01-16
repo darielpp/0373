@@ -1,0 +1,88 @@
+{
+    "pressupostos": [
+        {
+            "id": "1",
+            "components": [
+                {
+                    "tipus": "placa_base",
+                    "nom": "ASUS ROG STRIX B550-F",
+                    "preu": "180.00",
+                    "quantitat": "1"
+                },
+                {
+                    "tipus": "processador",
+                    "nom": "AMD Ryzen 5 5600X",
+                    "preu": "240.00",
+                    "quantitat": "1"
+                },
+                {
+                    "tipus": "memoria_ram",
+                    "nom": "Corsair Vengeance LPX 16GB (2 x 8GB)",
+                    "preu": "90.00",
+                    "quantitat": "1"
+                },
+                {
+                    "tipus": "disc_dur",
+                    "nom": "Samsung 970 EVO Plus 1TB",
+                    "preu": "120.00",
+                    "quantitat": "1"
+                },
+                {
+                    "tipus": "targeta_grafica",
+                    "nom": "NVIDIA GeForce RTX 3060",
+                    "preu": "400.00",
+                    "quantitat": "1"
+                },
+                {
+                    "tipus": "targeta_so",
+                    "nom": "Creative Sound Blaster Z",
+                    "preu": "100.00",
+                    "quantitat": "1"
+                }
+            ],
+            "total": "1130.00"
+        },
+        {
+            "id": "2",
+            "components": [
+                {
+                    "tipus": "placa_base",
+                    "nom": "MSI MPG B550 Gaming Plus",
+                    "preu": "140.00",
+                    "quantitat": "1"
+                },
+                {
+                    "tipus": "processador",
+                    "nom": "Intel Core i5-12600K",
+                    "preu": "280.00",
+                    "quantitat": "1"
+                },
+                {
+                    "tipus": "memoria_ram",
+                    "nom": "Kingston Fury Beast 16GB (2 x 8GB)",
+                    "preu": "85.00",
+                    "quantitat": "1"
+                },
+                {
+                    "tipus": "disc_dur",
+                    "nom": "Western Digital Black SN770 1TB",
+                    "preu": "110.00",
+                    "quantitat": "1"
+                },
+                {
+                    "tipus": "targeta_grafica",
+                    "nom": "NVIDIA GeForce GTX 1660 Super",
+                    "preu": "300.00",
+                    "quantitat": "1"
+                },
+                {
+                    "tipus": "targeta_so",
+                    "nom": "ASUS Xonar SE",
+                    "preu": "60.00",
+                    "quantitat": "1"
+                }
+            ],
+            "total": "975.00"
+        }
+    ]
+}
