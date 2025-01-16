@@ -1,0 +1,54 @@
+{
+    "CDsOferta": {
+        "CD": [
+            {
+                "Titulo": "Still got the blues",
+                "Artista": "Gary Moore",
+                "Pais": "UK",
+                "CompaniaDiscografica": "Virgin records",
+                "Precio": "10.20",
+                "AnioPublicacion": "1990"
+            },
+            {
+                "Titulo": "One night only",
+                "Artista": "Bee Gees",
+                "Pais": "UK",
+                "CompaniaDiscografica": "Polydor",
+                "Precio": "10.90",
+                "AnioPublicacion": "1998"
+            },
+            {
+                "Titulo": "When a man loves a woman",
+                "Artista": "Percy Sledge",
+                "Pais": "USA",
+                "CompaniaDiscografica": "Atlantic",
+                "Precio": "8.70",
+                "AnioPublicacion": "1987"
+            },
+            {
+                "Titulo": "Big Willie style",
+                "Artista": "Will Smith",
+                "Pais": "USA",
+                "CompaniaDiscografica": "Columbia",
+                "Precio": "9.90",
+                "AnioPublicacion": "1997"
+            },
+            {
+                "Titulo": "La canción de Juan Perro",
+                "Artista": "Radio Futura",
+                "Pais": "España",
+                "CompaniaDiscografica": "Sony Music-Ariola",
+                "Precio": "9.90",
+                "AnioPublicacion": "1987"
+            },
+            {
+                "Titulo": "The dock of the bay",
+                "Artista": "Otis Redding",
+                "Pais": "USA",
+                "CompaniaDiscografica": "Atlantic",
+                "Precio": "7.90",
+                "AnioPublicacion": "1987"
+            }
+        ]
+    }
+}
