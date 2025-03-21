@@ -1,0 +1,25 @@
+* {
+    background-color: aqua;   
+    text-align: left;
+}
+
+nom_assignatura {
+    font-size: 40px;
+    color: green;
+    display: block;
+
+}
+
+alumne {
+    font-size: 20px;
+    padding-left: 15px;
+    color: red;
+    display: block;
+}
+
+nota {
+    color: black;
+    font-weight: bold;
+}
+
+/* <?xml-stylesheet href="RA5Activitat1.NotesUni.css"?>
