@@ -1,0 +1,1016 @@
+[
+    {
+      "diaPredit": "20250331Z",
+      "versio": {
+        "mati": {
+          "tendencies": [
+            {
+              "tipus": "tg",
+              "valor": 1
+            }
+          ],
+          "simbols": {
+            "estatDelCel": [
+              {
+                "codi": 1,
+                "posicio": "(1.380832891909128,41.63742715738978)"
+              },
+              {
+                "codi": 1,
+                "posicio": "(1.8658572696442335,41.610191500615336)"
+              },
+              {
+                "codi": 1,
+                "posicio": "(1.8937767357626862,41.26347389657507)"
+              },
+              {
+                "codi": 1,
+                "posicio": "(1.3199704279236928,41.151881072333055)"
+              },
+              {
+                "codi": 1,
+                "posicio": "(0.8370766516806123,40.98960714153782)"
+              },
+              {
+                "codi": 1,
+                "posicio": "(0.6834478441820123,40.601071211854126)"
+              },
+              {
+                "codi": 1,
+                "posicio": "(1.3608673795475295,42.419151860894964)"
+              },
+              {
+                "codi": 1,
+                "posicio": "(0.6976253486683376,41.634109123112275)"
+              },
+              {
+                "codi": 1,
+                "posicio": "(0.4538422855910896,41.11128149017644)"
+              },
+              {
+                "codi": 1,
+                "posicio": "(2.540463129454275,41.60668561185378)"
+              },
+              {
+                "codi": 1,
+                "posicio": "(0.9541891161160864,41.413161095757296)"
+              },
+              {
+                "codi": 1,
+                "posicio": "(1.8907674103598657,42.29333928242709)"
+              },
+              {
+                "codi": 1,
+                "posicio": "(2.4623944927312147,42.23686609517029)"
+              },
+              {
+                "codi": 1,
+                "posicio": "(3.0108167418201113,42.3097177615605)"
+              },
+              {
+                "codi": 1,
+                "posicio": "(0.9051388972233944,42.04277276133663)"
+              },
+              {
+                "codi": 1,
+                "posicio": "(1.4084173226599441,42.006801127190464)"
+              },
+              {
+                "codi": 1,
+                "posicio": "(1.8968017644849762,41.94644757176681)"
+              },
+              {
+                "codi": 1,
+                "posicio": "(2.457849965461446,41.90090126287616)"
+              },
+              {
+                "codi": 1,
+                "posicio": "(0.2950598692057256,40.767503314618146)"
+              },
+              {
+                "codi": 1,
+                "posicio": "(2.9812672291412396,41.8746421942576)"
+              },
+              {
+                "codi": 1,
+                "posicio": "(0.9245852062723594,42.577277865851684)"
+              }
+            ],
+            "estatDelMar": [
+              {
+                "codi": 53,
+                "posicio": "(0.7673528748586294,40.48158525582924)"
+              },
+              {
+                "codi": 54,
+                "posicio": "(3.397911630042178,42.51278517017517)"
+              },
+              {
+                "codi": 54,
+                "posicio": "(3.3879577821138245,42.105297447886024)"
+              },
+              {
+                "codi": 53,
+                "posicio": "(3.0474051678030376,41.62679187630044)"
+              },
+              {
+                "codi": 53,
+                "posicio": "(1.8164734573366639,41.09746537428547)"
+              },
+              {
+                "codi": 53,
+                "posicio": "(2.5292598027428665,41.393401773479404)"
+              },
+              {
+                "codi": 52,
+                "posicio": "(1.0640670414661524,40.953563637277085)"
+              }
+            ],
+            "vent": [
+              {
+                "posicio": "(3.4482528547891427,42.348021582946636)",
+                "direccio": 0,
+                "velocitat": "25",
+                "beaufort": "4/6"
+              },
+              {
+                "posicio": "(0.9619553615600426,40.753934255569625)",
+                "direccio": 315,
+                "velocitat": "15",
+                "beaufort": "3/4"
+              },
+              {
+                "posicio": "(2.799565941906744,41.498840003473525)",
+                "direccio": 315,
+                "velocitat": "10",
+                "beaufort": "2/4"
+              },
+              {
+                "posicio": "(3.327718346698446,41.896205960215106)",
+                "direccio": 0,
+                "velocitat": "10",
+                "beaufort": "2/4"
+              },
+              {
+                "posicio": "(1.463593590459187,40.98753932457292)",
+                "direccio": 315,
+                "velocitat": "10",
+                "beaufort": "2/4"
+              },
+              {
+                "posicio": "(2.2969333288816727,41.23248568800357)",
+                "direccio": 315,
+                "velocitat": "10",
+                "beaufort": "2/4"
+              }
+            ]
+          }
+        },
+        "tarda": {
+          "tendencies": [
+            {
+              "tipus": "tx",
+              "valor": 1
+            }
+          ],
+          "simbols": {
+            "estatDelCel": [
+              {
+                "codi": 1,
+                "posicio": "(1.0227677132309978,41.341994637596976)"
+              },
+              {
+                "codi": 1,
+                "posicio": "(0.78839604364466,42.63598796402044)"
+              },
+              {
+                "codi": 1,
+                "posicio": "(1.2876056671313088,42.38022166592602)"
+              },
+              {
+                "codi": 1,
+                "posicio": "(1.7790890838132931,42.31492069224044)"
+              },
+              {
+                "codi": 1,
+                "posicio": "(2.3510603177473204,42.253499850465104)"
+              },
+              {
+                "codi": 1,
+                "posicio": "(2.9366652829529936,42.2663324676413)"
+              },
+              {
+                "codi": 1,
+                "posicio": "(0.7796044430716411,42.04110011686306)"
+              },
+              {
+                "codi": 1,
+                "posicio": "(1.2910391700157062,41.97826601585619)"
+              },
+              {
+                "codi": 1,
+                "posicio": "(1.8377832994209156,41.94655363724401)"
+              },
+              {
+                "codi": 1,
+                "posicio": "(2.4529176185664405,41.54571721255467)"
+              },
+              {
+                "codi": 1,
+                "posicio": "(1.3289064308545613,41.13962911047797)"
+              },
+              {
+                "codi": 1,
+                "posicio": "(1.8358665150719524,41.23605165181447)"
+              },
+              {
+                "codi": 1,
+                "posicio": "(0.4776920414752854,41.263869573126726)"
+              },
+              {
+                "codi": 1,
+                "posicio": "(2.391708181744253,41.87922860992033)"
+              },
+              {
+                "codi": 1,
+                "posicio": "(2.9444170703894734,41.88082615806516)"
+              },
+              {
+                "codi": 1,
+                "posicio": "(0.4937662144518863,41.605669787677506)"
+              },
+              {
+                "codi": 1,
+                "posicio": "(1.2340432483670303,41.6359535686939)"
+              },
+              {
+                "codi": 1,
+                "posicio": "(1.7711923338591233,41.57135370419505)"
+              },
+              {
+                "codi": 1,
+                "posicio": "(0.8528332421794729,40.952035689992535)"
+              },
+              {
+                "codi": 1,
+                "posicio": "(0.4628454928822024,40.701770665768386)"
+              }
+            ],
+            "estatDelMar": [
+              {
+                "codi": 54,
+                "posicio": "(3.420034084361449,42.481730080075415)"
+              },
+              {
+                "codi": 53,
+                "posicio": "(2.462970138364617,41.28612575262592)"
+              },
+              {
+                "codi": 54,
+                "posicio": "(3.364900273598054,41.95323333041517)"
+              },
+              {
+                "codi": 53,
+                "posicio": "(3.025364554051456,41.579294571319586)"
+              },
+              {
+                "codi": 52,
+                "posicio": "(1.1373751913743366,40.908790838563604)"
+              },
+              {
+                "codi": 52,
+                "posicio": "(1.7883278751030456,41.04415749396563)"
+              },
+              {
+                "codi": 53,
+                "posicio": "(0.7317014396286461,40.47381799591007)"
+              }
+            ],
+            "vent": [
+              {
+                "posicio": "(1.4852678024092079,40.993334277847694)",
+                "direccio": 135,
+                "velocitat": "10",
+                "beaufort": "2/4"
+              },
+              {
+                "posicio": "(2.159302698027034,41.154450261153656)",
+                "direccio": 180,
+                "velocitat": "10",
+                "beaufort": "2/4"
+              },
+              {
+                "posicio": "(0.9345851304013783,40.67347343970327)",
+                "direccio": 180,
+                "velocitat": "10",
+                "beaufort": "2/4"
+              },
+              {
+                "posicio": "(3.395768450415448,42.265608952268074)",
+                "direccio": 0,
+                "velocitat": "20",
+                "beaufort": "3/5"
+              },
+              {
+                "posicio": "(3.274973723960351,41.764794246525476)",
+                "direccio": 0,
+                "velocitat": "var",
+                "beaufort": "2/3"
+              },
+              {
+                "posicio": "(2.76962605080332,41.469331296552774)",
+                "direccio": 135,
+                "velocitat": "05",
+                "beaufort": "2/3"
+              }
+            ]
+          }
+        },
+        "variables": {
+          "estatDelCel": "Cel serè o poc ennuvolat en general. Malgrat tot, es podria formar algun núvol baix al litoral central i al sud de la Costa Brava, així com al final del dia a punts del delta de l'Ebre.",
+          "precipitacions": "No s'espera precipitació.",
+          "temperatures": "La temperatura màxima pujarà entre lleugerament i moderadament en general, sobretot a l'interior i en especial a punts del Pirineu, on l'ascens serà notable. Algun valor màxim podrà superar els 24 °C, sobretot a les Terres de l'Ebre i a l'extrem nord-est. ",
+          "visibilitat": "La visibilitat serà excel·lent.",
+          "vent": "A les Terres de l'Ebre bufarà mestral fluix amb cops moderats, tot i que hi haurà algun cop fort al litoral sud fins a migdia; a l'Empordà hi haurà tramuntana moderada amb alguns cops forts i puntualment molt forts fins a mitja tarda, si bé al nord del Cap de Creus persistirà fins al final del dia. La resta del dia quedarà fluix amb cops moderats en aquests sectors. Al Pirineu bufà de component nord fluix amb algun cop moderat i a la resta de l'interior bufarà fluix amb cops moderats de component sud i oest. Per altra banda, a la resta del litoral bufarà terral fins a mig matí i progressivament s'imposarà el component sud al llarg de la tarda. "
+        }
+      }
+    },
+    {
+      "diaPredit": "20250401Z",
+      "versio": {
+        "mati": {
+          "tendencies": [
+            {
+              "tipus": "tn",
+              "valor": 0
+            }
+          ],
+          "simbols": {
+            "estatDelCel": [
+              {
+                "codi": 1,
+                "posicio": "(1.014596699509616,42.58671370173739)"
+              },
+              {
+                "codi": 1,
+                "posicio": "(0.8505561157094719,42.15423424499049)"
+              },
+              {
+                "codi": 1,
+                "posicio": "(0.577504117915917,41.54853253156008)"
+              },
+              {
+                "codi": 1,
+                "posicio": "(0.42964735414160143,41.022124937609924)"
+              },
+              {
+                "codi": 1,
+                "posicio": "(2.098137662369479,41.8569142847611)"
+              },
+              {
+                "codi": 1,
+                "posicio": "(1.6900472020009538,41.274685805902465)"
+              },
+              {
+                "codi": 1,
+                "posicio": "(2.21863310413729,41.51902823697936)"
+              },
+              {
+                "codi": 20,
+                "posicio": "(0.5703488191826502,40.71504218263717)"
+              },
+              {
+                "codi": 12,
+                "posicio": "(0.8309528356547885,40.71472797068061)"
+              },
+              {
+                "codi": 1,
+                "posicio": "(3.078391076719242,42.22941882834091)"
+              },
+              {
+                "codi": 1,
+                "posicio": "(2.4564751695730176,42.167579240413424)"
+              },
+              {
+                "codi": 1,
+                "posicio": "(1.9213845403330851,42.29045821264154)"
+              },
+              {
+                "codi": 1,
+                "posicio": "(1.5558457247085866,41.73021304986556)"
+              },
+              {
+                "codi": 1,
+                "posicio": "(2.8570049498787036,41.82181369221328)"
+              },
+              {
+                "codi": 1,
+                "posicio": "(1.0807856153013902,41.3873064683579)"
+              },
+              {
+                "codi": 1,
+                "posicio": "(1.3293740883149456,42.23930570033803)"
+              },
+              {
+                "codi": 1,
+                "posicio": "(1.0084502429229,41.79081580556868)"
+              },
+              {
+                "codi": 3,
+                "posicio": "(1.0516990357522882,41.126772627235376)"
+              },
+              {
+                "codi": 12,
+                "posicio": "(1.0111732029880458,41.02143184319945)"
+              }
+            ],
+            "estatDelMar": [
+              {
+                "codi": 53,
+                "posicio": "(3.129100907706652,41.65660183532555)"
+              },
+              {
+                "codi": 53,
+                "posicio": "(2.448319168574252,41.3964844715271)"
+              },
+              {
+                "codi": 53,
+                "posicio": "(1.7948686125663318,41.1326239572297)"
+              },
+              {
+                "codi": 52,
+                "posicio": "(1.1812601468111952,40.929038305692025)"
+              },
+              {
+                "codi": 52,
+                "posicio": "(0.8026776544970368,40.51760672432199)"
+              },
+              {
+                "codi": 54,
+                "posicio": "(3.4542440770600757,42.14864068778029)"
+              }
+            ],
+            "vent": [
+              {
+                "posicio": "(2.7842980811953675,41.54631714864896)",
+                "direccio": 45,
+                "velocitat": "10",
+                "beaufort": "2/4"
+              },
+              {
+                "posicio": "(3.4083580494589136,41.91750595967118)",
+                "direccio": 0,
+                "velocitat": "15",
+                "beaufort": "3/4"
+              },
+              {
+                "posicio": "(1.5206678617296139,40.95036614743251)",
+                "direccio": 135,
+                "velocitat": "05",
+                "beaufort": "2/3"
+              },
+              {
+                "posicio": "(1.0342141066082946,40.69523583091725)",
+                "direccio": 135,
+                "velocitat": "05",
+                "beaufort": "2/3"
+              },
+              {
+                "posicio": "(3.4564343342171955,42.45262147085405)",
+                "direccio": 0,
+                "velocitat": "20",
+                "beaufort": "3/5"
+              },
+              {
+                "posicio": "(2.193966571819114,41.23915249774264)",
+                "direccio": 0,
+                "velocitat": "var",
+                "beaufort": "2/3"
+              }
+            ]
+          }
+        },
+        "tarda": {
+          "tendencies": [
+            {
+              "tipus": "tx",
+              "valor": -1
+            }
+          ],
+          "simbols": {
+            "estatDelCel": [
+              {
+                "codi": 20,
+                "posicio": "(0.5349963731143564,40.69226089529579)"
+              },
+              {
+                "codi": 3,
+                "posicio": "(0.9453978422337743,42.651570830614084)"
+              },
+              {
+                "codi": 3,
+                "posicio": "(0.8219003967664229,41.03571740564937)"
+              },
+              {
+                "codi": 1,
+                "posicio": "(0.6004832839864215,41.71973590866429)"
+              },
+              {
+                "codi": 1,
+                "posicio": "(0.5473188895157184,41.37716760658671)"
+              },
+              {
+                "codi": 31,
+                "posicio": "(2.2165097716576723,42.296657758033554)"
+              },
+              {
+                "codi": 31,
+                "posicio": "(1.8417829195502486,42.10073798790762)"
+              },
+              {
+                "codi": 31,
+                "posicio": "(0.9323238775460473,42.324744185039556)"
+              },
+              {
+                "codi": 3,
+                "posicio": "(1.6331614164698094,41.8285881867172)"
+              },
+              {
+                "codi": 3,
+                "posicio": "(0.9331773835714986,42.0714460916404)"
+              },
+              {
+                "codi": 3,
+                "posicio": "(1.0471125706949178,41.77776341166099)"
+              },
+              {
+                "codi": 12,
+                "posicio": "(0.7573873326867848,40.78459615895234)"
+              },
+              {
+                "codi": 3,
+                "posicio": "(1.500791400704574,41.237720650676415)"
+              },
+              {
+                "codi": 12,
+                "posicio": "(3.063163654478549,42.10666125090253)"
+              },
+              {
+                "codi": 12,
+                "posicio": "(2.4121471800277665,42.127201749703175)"
+              },
+              {
+                "codi": 31,
+                "posicio": "(2.384365862777381,41.93980799408793)"
+              },
+              {
+                "codi": 20,
+                "posicio": "(1.494837776473448,41.49650604234221)"
+              },
+              {
+                "codi": 20,
+                "posicio": "(1.0315447737656582,41.31326728587691)"
+              },
+              {
+                "codi": 20,
+                "posicio": "(1.4451961103759159,42.339720944836664)"
+              },
+              {
+                "codi": 20,
+                "posicio": "(0.2999560073922207,40.98577530821118)"
+              },
+              {
+                "codi": 20,
+                "posicio": "(2.041740958087142,41.6675938242146)"
+              },
+              {
+                "codi": 12,
+                "posicio": "(2.3639316633726164,41.7689652360979)"
+              },
+              {
+                "codi": 20,
+                "posicio": "(2.9372560501923948,42.28839812908494)"
+              },
+              {
+                "codi": 20,
+                "posicio": "(2.9818634604867817,41.919427339925505)"
+              },
+              {
+                "codi": 20,
+                "posicio": "(2.54896299301773,41.61011910804271)"
+              },
+              {
+                "codi": 3,
+                "posicio": "(1.9951976607964963,41.3532558664016)"
+              }
+            ],
+            "estatDelMar": [
+              {
+                "codi": 53,
+                "posicio": "(2.777061152260836,41.51876431921731)"
+              },
+              {
+                "codi": 53,
+                "posicio": "(2.107493609943651,41.17953514444694)"
+              },
+              {
+                "codi": 53,
+                "posicio": "(1.3254096428582682,40.97253269062485)"
+              },
+              {
+                "codi": 53,
+                "posicio": "(3.381109233046554,42.04707434334231)"
+              },
+              {
+                "codi": 53,
+                "posicio": "(0.8453172709512706,40.52971093401866)"
+              }
+            ],
+            "vent": [
+              {
+                "posicio": "(1.038049638547092,40.85072352516194)",
+                "direccio": 135,
+                "velocitat": "15",
+                "beaufort": "3/4"
+              },
+              {
+                "posicio": "(1.7301288008060678,41.075239225364584)",
+                "direccio": 135,
+                "velocitat": "15",
+                "beaufort": "3/4"
+              },
+              {
+                "posicio": "(2.477528712778366,41.36747238817421)",
+                "direccio": 135,
+                "velocitat": "15",
+                "beaufort": "3/4"
+              },
+              {
+                "posicio": "(3.2024779564794623,41.72648678069109)",
+                "direccio": 90,
+                "velocitat": "15",
+                "beaufort": "3/4"
+              },
+              {
+                "posicio": "(3.4348709746324584,42.386717174608094)",
+                "direccio": 90,
+                "velocitat": "10",
+                "beaufort": "2/4"
+              }
+            ]
+          }
+        },
+        "variables": {
+          "estatDelCel": "Fins a migdia predominarà el cel serè a tot el territori, a excepció de punts de l'extrem sud del litoral on estarà mig o localment molt ennuvolat per núvols baixos. A partir de llavors es formaran nuvolades a punts de muntanya, sobretot al Pirineu i al Prepirineu, on el cel quedarà entre mig i molt ennuvolat o localment cobert, alhora que inicialment es formaran intervals de núvols baixos al litoral i prelitoral, sobretot nord del sector, que al llarg de la tarda i vespre s'estendran a altres indrets del territori.",
+          "precipitacions": "A partir de migdia s'iniciaran algunes febles precipitacions a l'interior del quadrant nord-est, i durant la tarda i vespre s'esperen ruixats de distribució irregular al Pirineu i al Prepirineu, d'intensitat entre feble i moderada, tot i que no es descarten alguns plugims a altres punts del litoral i prelitoral. Les acumulacions de precipitació seran entre minses i poc abundants. Cota de neu: 1.500 metres.",
+          "temperatures": "La temperatura mínima serà similar. La temperatura màxima, en canvi, baixarà entre moderadament i notablement al prelitoral i al quadrant nord-est, i entre lleugeramet i moderadament a la resta del país.",
+          "visibilitat": "Fins a migdia, la visibilitat serà excel·lent, tret de punts del delta de l'Ebre on serà regular. A partir de migdia empitjorarà al litoral i prelitoral on serà regular, així com també en moments de ruixat durant la tarda al Pirineu.",
+          "vent": "A l'inici del dia el vent serà fluix i de direcció variable amb predomini del terral al litoral, sobretot meitat sud del sector. La resta del dia bufarà de component sud i est arreu, entre fluix i moderat amb alguns cops forts, malgrat que a la Costa Brava predominarà la tramuntana fins a migdia, i entre tramuntana i gregal a partir de llavors. Al final de la jornada el vent afluixarà i quedarà de direcció variable, malgrat que continuarà amb estones de vent de component est fluix arreu."
+        }
+      }
+    },
+    {
+      "diaPredit": "20250402Z",
+      "versio": {
+        "mati": {
+          "tendencies": [
+            {
+              "tipus": "tn",
+              "valor": 0
+            }
+          ],
+          "simbols": {
+            "estatDelCel": [
+              {
+                "codi": 32,
+                "posicio": "(1.5824582679313657,41.85721388346868)"
+              },
+              {
+                "codi": 4,
+                "posicio": "(2.411344925898436,42.244456353281706)"
+              },
+              {
+                "codi": 4,
+                "posicio": "(2.3772578961503354,41.941378218124186)"
+              },
+              {
+                "codi": 20,
+                "posicio": "(2.527097215131337,41.62816300656466)"
+              },
+              {
+                "codi": 20,
+                "posicio": "(2.9301529854545123,42.26246701538455)"
+              },
+              {
+                "codi": 4,
+                "posicio": "(2.0047798721247845,41.68286244903277)"
+              },
+              {
+                "codi": 6,
+                "posicio": "(1.0667762717128046,41.356985393038926)"
+              },
+              {
+                "codi": 6,
+                "posicio": "(0.49922078877119225,40.71267744503844)"
+              },
+              {
+                "codi": 6,
+                "posicio": "(0.36254176084194456,41.0566115524609)"
+              },
+              {
+                "codi": 6,
+                "posicio": "(0.7935479783334444,41.005090457168215)"
+              },
+              {
+                "codi": 6,
+                "posicio": "(0.5958390526387495,41.441731356769274)"
+              },
+              {
+                "codi": 6,
+                "posicio": "(0.9072032271794803,41.77275051582191)"
+              },
+              {
+                "codi": 32,
+                "posicio": "(0.9565113261645873,42.30230640708373)"
+              },
+              {
+                "codi": 32,
+                "posicio": "(1.1272795581988004,42.04639923652811)"
+              },
+              {
+                "codi": 4,
+                "posicio": "(0.9450137082394877,42.65452223214607)"
+              },
+              {
+                "codi": 4,
+                "posicio": "(2.008836023508776,42.37130354825362)"
+              },
+              {
+                "codi": 32,
+                "posicio": "(1.8428924853432032,42.105411612321234)"
+              },
+              {
+                "codi": 4,
+                "posicio": "(2.0170552371273547,41.358012492461874)"
+              },
+              {
+                "codi": 32,
+                "posicio": "(1.4298625522727502,42.359328589616304)"
+              },
+              {
+                "codi": 4,
+                "posicio": "(1.5749349658266236,41.518617074370326)"
+              },
+              {
+                "codi": 12,
+                "posicio": "(0.2710882299286576,40.80432664644901)"
+              },
+              {
+                "codi": 12,
+                "posicio": "(0.8875920138138154,41.24687444089885)"
+              },
+              {
+                "codi": 12,
+                "posicio": "(1.5786912980466428,41.68157296300942)"
+              },
+              {
+                "codi": 20,
+                "posicio": "(2.952661682909448,41.90450525200906)"
+              }
+            ],
+            "estatDelMar": [
+              {
+                "codi": 53,
+                "posicio": "(3.306035284560549,41.79946480213799)"
+              },
+              {
+                "codi": 53,
+                "posicio": "(2.6601819360491805,41.4468762742321)"
+              },
+              {
+                "codi": 53,
+                "posicio": "(1.889744658657705,41.12256133309958)"
+              },
+              {
+                "codi": 53,
+                "posicio": "(1.202814186334847,40.93763827209995)"
+              },
+              {
+                "codi": 54,
+                "posicio": "(0.873802787915368,40.54203637067253)"
+              },
+              {
+                "codi": 53,
+                "posicio": "(3.442325786579925,42.34974815416685)"
+              }
+            ],
+            "vent": [
+              {
+                "posicio": "(1.0239609064179913,40.83663351270568)",
+                "direccio": 135,
+                "velocitat": "15",
+                "beaufort": "3/4"
+              },
+              {
+                "posicio": "(1.5634227380445678,41.04290756230853)",
+                "direccio": 135,
+                "velocitat": "15",
+                "beaufort": "3/4"
+              },
+              {
+                "posicio": "(2.361386965701208,41.281433536360296)",
+                "direccio": 135,
+                "velocitat": "15",
+                "beaufort": "3/4"
+              },
+              {
+                "posicio": "(3.070031440169538,41.624672425595406)",
+                "direccio": 135,
+                "velocitat": "15",
+                "beaufort": "3/4"
+              },
+              {
+                "posicio": "(3.388892728879521,42.15825879920532)",
+                "direccio": 135,
+                "velocitat": "10",
+                "beaufort": "2/4"
+              }
+            ]
+          }
+        },
+        "tarda": {
+          "tendencies": [
+            {
+              "tipus": "tx",
+              "valor": -1
+            }
+          ],
+          "simbols": {
+            "estatDelCel": [
+              {
+                "codi": 20,
+                "posicio": "(2.937550626180116,42.27899258454574)"
+              },
+              {
+                "codi": 32,
+                "posicio": "(1.249414824209963,41.64334168802879)"
+              },
+              {
+                "codi": 32,
+                "posicio": "(0.4981663600789221,40.74825000991769)"
+              },
+              {
+                "codi": 4,
+                "posicio": "(0.9527566570378337,41.038117109823105)"
+              },
+              {
+                "codi": 4,
+                "posicio": "(0.41317584933173046,41.07132356169241)"
+              },
+              {
+                "codi": 4,
+                "posicio": "(2.091878081470211,42.297442111016004)"
+              },
+              {
+                "codi": 4,
+                "posicio": "(1.5150010925830601,41.267052686032606)"
+              },
+              {
+                "codi": 32,
+                "posicio": "(0.935126259104292,41.3682612841996)"
+              },
+              {
+                "codi": 32,
+                "posicio": "(0.5781205060654437,41.53202383570565)"
+              },
+              {
+                "codi": 32,
+                "posicio": "(1.8068814300610696,42.06904110308085)"
+              },
+              {
+                "codi": 6,
+                "posicio": "(0.9461003923294076,42.621503027724074)"
+              },
+              {
+                "codi": 6,
+                "posicio": "(0.9422214135142025,42.28553055407491)"
+              },
+              {
+                "codi": 6,
+                "posicio": "(0.8209175358907772,41.93085038636751)"
+              },
+              {
+                "codi": 6,
+                "posicio": "(1.3864713048832766,42.02280143937149)"
+              },
+              {
+                "codi": 6,
+                "posicio": "(1.4595529920785566,42.359731434625274)"
+              },
+              {
+                "codi": 4,
+                "posicio": "(2.4416982594042835,42.131916642895995)"
+              },
+              {
+                "codi": 4,
+                "posicio": "(1.7622726435996887,41.686013867645514)"
+              },
+              {
+                "codi": 20,
+                "posicio": "(2.886080130212874,41.874372631515854)"
+              },
+              {
+                "codi": 20,
+                "posicio": "(2.4315559214281626,41.60865852212731)"
+              },
+              {
+                "codi": 4,
+                "posicio": "(2.304138047705597,41.85579860353563)"
+              },
+              {
+                "codi": 4,
+                "posicio": "(1.97267999586189,41.39067198029253)"
+              },
+              {
+                "codi": 12,
+                "posicio": "(1.1003931579333568,42.451145868209586)"
+              },
+              {
+                "codi": 12,
+                "posicio": "(1.5157072343910465,42.18193422949294)"
+              },
+              {
+                "codi": 12,
+                "posicio": "(1.479318283700343,41.845521818959504)"
+              }
+            ],
+            "estatDelMar": [
+              {
+                "codi": 53,
+                "posicio": "(1.9553784610224532,41.1176671752726)"
+              },
+              {
+                "codi": 53,
+                "posicio": "(1.2028141862177057,40.937638299197815)"
+              },
+              {
+                "codi": 53,
+                "posicio": "(0.9461066119955055,40.547787264225846)"
+              },
+              {
+                "codi": 54,
+                "posicio": "(2.557672616515162,41.409038341959075)"
+              },
+              {
+                "codi": 54,
+                "posicio": "(3.2837247374689715,41.811602861655146)"
+              },
+              {
+                "codi": 54,
+                "posicio": "(3.464441609908841,42.3672473060515)"
+              }
+            ],
+            "vent": [
+              {
+                "posicio": "(3.388825307962935,42.14724462427504)",
+                "direccio": 135,
+                "velocitat": "10",
+                "beaufort": "2/4"
+              },
+              {
+                "posicio": "(2.952592647708578,41.61366852768911)",
+                "direccio": 90,
+                "velocitat": "10",
+                "beaufort": "2/4"
+              },
+              {
+                "posicio": "(2.310335658749866,41.27563101103476)",
+                "direccio": 90,
+                "velocitat": "15",
+                "beaufort": "3/4"
+              },
+              {
+                "posicio": "(1.591693254218793,41.081812764672485)",
+                "direccio": 90,
+                "velocitat": "15",
+                "beaufort": "3/4"
+              },
+              {
+                "posicio": "(1.0104516114002793,40.8033532099293)",
+                "direccio": 90,
+                "velocitat": "15",
+                "beaufort": "3/4"
+              }
+            ]
+          }
+        },
+        "variables": {
+          "estatDelCel": "El cel estarà molt ennuvolat o cobert arreu, amb més clarianes a l'extrem nord-est.",
+          "precipitacions": "S'espera precipitació a qualsevol punt del territori, menys probable a l'extrem nord-est del territori. La intensitat serà entre feble i moderada i les acumulacions entre minses i poc abundants, localment abundants a punts de la meitat oest.",
+          "temperatures": "La temperatura mínima serà similar en general, mentre que al terç sud augmentarà lleugerament. La temperatura màxima baixarà entre moderadament i notablement al Pirineu i entre lleugerament i moderadament a la resta del territori.",
+          "visibilitat": "La visibilitat serà entre bona i regular, localment dolenta al litoral i al prelitoral.",
+          "vent": "Predominarà el vent de component est arreu; serà d'intensitat entre feble i moderada amb cops forts, sobretot a la meitat sud, i algun de molt fort a cotes altes del Pirineu, sobretot sector occidental."
+        }
+      }
+    }
+  ]

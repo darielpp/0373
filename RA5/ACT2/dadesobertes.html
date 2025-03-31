@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="ca">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Previsió Meteorològica</title>
+</head>
+<body>
+    <h1>Previsió Meteorològica</h1>
+    <div id="output">Carregant dades...</div>
+
+    <script>
+        fetch("dadesobertes_pg.json")
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error("Error al carregar el fitxer JSON");
+                }
+                return response.json();
+            })
+            .then(data => {
+                let output = "";
+                data.forEach((dia, index) => {
+                    const variables = dia.versio.variables;
+                    output += `
+                        <h2>Previsió del dia ${index + 1} (${dia.diaPredit}):</h2>
+                        <p><strong>Estat del Cel:</strong> ${variables.estatDelCel}</p>
+                        <p><strong>Precipitacions:</strong> ${variables.precipitacions}</p>
+                        <p><strong>Temperatures:</strong> ${variables.temperatures}</p>
+                        <p><strong>Visibilitat:</strong> ${variables.visibilitat}</p>
+                        <p><strong>Vent:</strong> ${variables.vent}</p>
+                        <br>
+                    `;
+                });
+                document.getElementById("output").innerHTML = output;
+            })
+            .catch(error => {
+                document.getElementById("output").innerHTML = "Error al carregar les dades.";
+                console.error("Error carregant JSON:", error);
+            });
+    </script>
+</body>
+</html>

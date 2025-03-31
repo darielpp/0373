@@ -1,0 +1,90 @@
+{
+  "version" : "2.0",
+  "class" : "dataset",
+  "link" : {
+    "alternate" : [ {
+      "type" : "text/html",
+      "href" : "https://www.idescat.cat/pub/?id=eep&n=13825&lang=es"
+    } ]
+  },
+  "label" : "Población de 15 años o más. Por nivel de formación alcanzado y sexo. Cataluña",
+  "source" : "Idescat. Estadística de los estudios de la población.",
+  "updated" : "2023-03-02",
+  "id" : [ "YEAR", "CAT", "LEV_EDU_1", "SEX", "CONCEPT" ],
+  "size" : [ 3, 1, 5, 3, 1 ],
+  "role" : {
+    "geo" : [ "CAT" ],
+    "metric" : [ "CONCEPT" ],
+    "time" : [ "YEAR" ]
+  },
+  "dimension" : {
+    "YEAR" : {
+      "category" : {
+        "index" : [ "2018", "2019", "2020" ],
+        "label" : {
+          "2018" : "2018",
+          "2019" : "2019",
+          "2020" : "2020"
+        }
+      },
+      "label" : "año"
+    },
+    "CAT" : {
+      "category" : {
+        "index" : [ "TOTAL" ],
+        "label" : {
+          "TOTAL" : "Cataluña"
+        }
+      },
+      "label" : "Cataluña"
+    },
+    "LEV_EDU_1" : {
+      "category" : {
+        "index" : [ "ED_0-1", "ED_21-24", "ED_3_4", "ED5-8", "TOTAL" ],
+        "label" : {
+          "ED_0-1" : "educación primaria o inferior",
+          "ED_21-24" : "primera etapa de educación secundaria y similar",
+          "ED_3_4" : "segunda etapa de educación secundaria y similar",
+          "ED5-8" : "educación superior",
+          "TOTAL" : "total"
+        }
+      },
+      "label" : "nivel de formación alcanzado"
+    },
+    "SEX" : {
+      "category" : {
+        "index" : [ "M", "F", "TOTAL" ],
+        "label" : {
+          "M" : "hombres",
+          "F" : "mujeres",
+          "TOTAL" : "total"
+        }
+      },
+      "label" : "sexo"
+    },
+    "CONCEPT" : {
+      "category" : {
+        "index" : [ "POP_Y_GE15" ],
+        "label" : {
+          "POP_Y_GE15" : "población de 15 años y más"
+        },
+        "unit" : {
+          "POP_Y_GE15" : {
+            "decimals" : 0
+          }
+        }
+      },
+      "label" : "concepto"
+    }
+  }
+,
+"value" : [ 425275, 6.1445E+5, 1.03973E+6, 972835, 858375, 1.83121E+6, 784035, 7.4618E+5, 1530215, 9.4691E+5, 1.0816E+6, 2028515, 3.12906E+6, 3.30061E+6, 6.42967E+6 ,
+ 4.2769E+5, 601785, 1029475, 9.8865E+5, 8.8036E+5, 1869015, 791895, 751945, 1.54384E+6, 966895, 1107385, 2.07428E+6, 3175135, 3341475, 6.51661E+6 ,
+ 407435, 5.746E+5, 982035, 9.9031E+5, 8.795E+5, 1.86981E+6, 804505, 7.5471E+5, 1559215, 1.02867E+6, 1181205, 2.20988E+6, 3.23092E+6, 3.39002E+6, 6.62094E+6 
+]
+,
+"extension" : 
+{
+  "source" : [ "Idescat. Estadística de los estudios de la población." ]
+}
+}
